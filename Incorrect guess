@@ -1,0 +1,4 @@
+   } else {
+            guesses -= 1;
+            if guesses > 0 {
+                println!("Incorrect guess. Try again.");
